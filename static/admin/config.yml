@@ -1,0 +1,47 @@
+backend:
+  name: github
+  repo: florelibre/le-pinceau-volant
+  branch: main
+  auth_type: pkce
+  app_id: Ov23liJRkSv2CuVh4VlP
+
+media_folder: static/images
+public_folder: /images
+
+locale: fr
+
+collections:
+  - name: pages
+    label: Pages
+    files:
+      - label: Accueil
+        name: home
+        file: content/_index.md
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Contenu, name: body, widget: markdown }
+
+      - label: À propos
+        name: about
+        file: content/a-propos.md
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Contenu, name: body, widget: markdown }
+
+      - label: Services
+        name: services
+        file: content/services/_index.md
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Contenu, name: body, widget: markdown }
+
+      - label: Contact
+        name: contact
+        file: content/contact.md
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Contenu, name: body, widget: markdown }

@@ -1,0 +1,23 @@
+baseURL = "https://florelibre.github.io/le-pinceau-volant/"
+languageCode = "fr-FR"
+title = "Le Pinceau Volant"
+defaultContentLanguage = "fr"
+
+[params]
+  description = "Peintures à l'huile et aquarelles sur commande"
+  author = "Flore"
+
+[[menus.main]]
+  name = "À propos"
+  url = "/a-propos/"
+  weight = 10
+
+[[menus.main]]
+  name = "Services"
+  url = "/services/"
+  weight = 20
+
+[[menus.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 30

@@ -1,0 +1,12 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="container">
+    {{ if .Content }}
+      {{ .Content }}
+    {{ else }}
+      <h1>{{ .Site.Title }}</h1>
+      <p class="tagline">{{ .Site.Params.description }}</p>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
