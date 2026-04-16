@@ -2,8 +2,7 @@ backend:
   name: github
   repo: florelibre/le-pinceau-volant
   branch: main
-  base_url: https://celebrated-pony-a1b088.netlify.app
-  auth_endpoint: /.netlify/functions/auth
+  auth_type: token
 
 media_folder: static/images
 public_folder: /images
