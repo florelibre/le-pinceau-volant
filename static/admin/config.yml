@@ -2,8 +2,7 @@ backend:
   name: github
   repo: florelibre/le-pinceau-volant
   branch: main
-  auth_type: pkce
-  app_id: Ov23liJRkSv2CuVh4VlP
+  base_url: https://api.netlify.com
 
 media_folder: static/images
 public_folder: /images
