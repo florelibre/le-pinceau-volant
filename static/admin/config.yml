@@ -3,6 +3,7 @@ backend:
   repo: florelibre/le-pinceau-volant
   branch: main
   base_url: https://api.netlify.com
+  site_domain: fancy-concha-539878.netlify.app
 
 media_folder: static/images
 public_folder: /images
