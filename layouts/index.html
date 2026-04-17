@@ -21,7 +21,8 @@
         <li>
           <a href="{{ .RelPermalink }}">
             <span class="article-title">{{ .Title }}</span>
-            <span class="article-date">{{ .Date.Format "2 janvier 2006" }}</span>
+            {{ $mois := slice "" "janvier" "février" "mars" "avril" "mai" "juin" "juillet" "août" "septembre" "octobre" "novembre" "décembre" }}
+            <span class="article-date">{{ .Date.Format "2" }} {{ index $mois (.Date.Format "1" | int) }} {{ .Date.Format "2006" }}</span>
           </a>
         </li>
         {{ end }}

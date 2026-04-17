@@ -8,7 +8,8 @@
     {{ range .Pages.ByDate.Reverse }}
     <section class="actualite-entry">
       <h2>{{ .Title }}</h2>
-      <time datetime="{{ .Date.Format "2006-01-02" }}" class="actualite-date">{{ .Date.Format "2 janvier 2006" }}</time>
+      {{ $mois := slice "" "janvier" "février" "mars" "avril" "mai" "juin" "juillet" "août" "septembre" "octobre" "novembre" "décembre" }}
+      <time datetime="{{ .Date.Format "2006-01-02" }}" class="actualite-date">{{ .Date.Format "2" }} {{ index $mois (.Date.Format "1" | int) }} {{ .Date.Format "2006" }}</time>
       <div class="content">{{ .Content }}</div>
     </section>
     {{ end }}
