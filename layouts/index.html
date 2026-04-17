@@ -9,4 +9,26 @@
     {{ end }}
   </div>
 </section>
+{{ $actualitesPage := .Site.GetPage "actualites" }}
+{{ if $actualitesPage }}
+  {{ $articles := $actualitesPage.Pages.ByDate.Reverse | first 3 }}
+  {{ if $articles }}
+  <section class="actualites-home">
+    <div class="container">
+      <h2>Actualités</h2>
+      <ul class="article-list">
+        {{ range $articles }}
+        <li>
+          <a href="{{ .RelPermalink }}">
+            <span class="article-title">{{ .Title }}</span>
+            <span class="article-date">{{ .Date.Format "2 janvier 2006" }}</span>
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+      <a href="{{ $actualitesPage.RelPermalink }}" class="voir-tout">Toutes les actualités →</a>
+    </div>
+  </section>
+  {{ end }}
+{{ end }}
 {{ end }}
