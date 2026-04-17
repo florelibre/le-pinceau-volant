@@ -1,0 +1,25 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Hugo: serveur local",
+      "type": "shell",
+      "command": "hugo server",
+      "isBackground": true,
+      "problemMatcher": {
+        "pattern": {
+          "regexp": "^ERROR"
+        },
+        "background": {
+          "activeOnStart": true,
+          "beginsPattern": "^Start building sites",
+          "endsPattern": "^Web Server is available"
+        }
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    }
+  ]
+}

@@ -7,10 +7,4 @@ description: Me contacter
 
 Pour toute commande, question ou simplement pour dire bonjour, envoyez-moi un message :
 
-**Email :** contact@lepinceauvolant.fr
-
-Je réponds généralement sous 48 heures.
-
-***
-
-Vous pouvez aussi me retrouver sur Instagram : **@lepinceauvolant**
+**Email :** [&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#108;&#101;&#112;&#105;&#110;&#99;&#101;&#97;&#117;&#118;&#111;&#108;&#97;&#110;&#116;&#46;&#102;&#114;](mailto:&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#108;&#101;&#112;&#105;&#110;&#99;&#101;&#97;&#117;&#118;&#111;&#108;&#97;&#110;&#116;&#46;&#102;&#114;)
