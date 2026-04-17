@@ -1,6 +1,6 @@
 ---
-title: "À propos"
-description: "Qui suis-je ?"
+title: "Qui suis-je ?"
+description: "Flore, peintre autodidacte — ma démarche, ma pratique, mon parcours."
 ---
 
 ## Qui suis-je ?

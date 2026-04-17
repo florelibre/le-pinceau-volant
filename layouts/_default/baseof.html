@@ -14,13 +14,21 @@
   <header>
     <div class="container">
       <a href="{{ .Site.Home.RelPermalink }}" class="site-title">{{ .Site.Title }}</a>
-      <nav>
-        {{ range .Site.Menus.main }}
-        <a href="{{ .URL }}"{{ if eq $.RelPermalink .URL }} class="active"{{ end }}>{{ .Name }}</a>
-        {{ end }}
-      </nav>
+      <button id="menu-toggle" aria-expanded="false" aria-label="Ouvrir le menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
     </div>
   </header>
+
+  <div id="nav-overlay" role="dialog" aria-label="Navigation">
+    <nav>
+      {{ range .Site.Menus.main }}
+      <a href="{{ .URL }}"{{ if eq $.RelPermalink .URL }} class="active"{{ end }}>{{ .Name }}</a>
+      {{ end }}
+    </nav>
+  </div>
 
   <main>
     {{ block "main" . }}{{ end }}
@@ -31,5 +39,20 @@
       <p>&copy; {{ now.Year }} {{ .Site.Params.author }} — Le Pinceau Volant</p>
     </div>
   </footer>
+
+  <script>
+    var toggle = document.getElementById('menu-toggle');
+    var overlay = document.getElementById('nav-overlay');
+    toggle.addEventListener('click', function () {
+      var isOpen = document.body.classList.toggle('nav-open');
+      toggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+    });
+    overlay.addEventListener('click', function (e) {
+      if (e.target.tagName === 'A') {
+        document.body.classList.remove('nav-open');
+        toggle.setAttribute('aria-expanded', 'false');
+      }
+    });
+  </script>
 </body>
 </html>

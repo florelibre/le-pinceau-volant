@@ -21,17 +21,41 @@ collections:
           - { label: Description, name: description, widget: string }
           - { label: Contenu, name: body, widget: markdown }
 
-      - label: À propos
-        name: about
-        file: content/a-propos.md
+      - label: La peinture libre
+        name: la-peinture-libre
+        file: content/la-peinture-libre.md
         fields:
           - { label: Titre, name: title, widget: string }
           - { label: Description, name: description, widget: string }
           - { label: Contenu, name: body, widget: markdown }
 
-      - label: Services
-        name: services
-        file: content/services/_index.md
+      - label: L'aquarelle créative
+        name: laquarelle-creative
+        file: content/laquarelle-creative.md
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Contenu, name: body, widget: markdown }
+
+      - label: Les arts plastiques
+        name: les-arts-plastiques
+        file: content/les-arts-plastiques.md
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Contenu, name: body, widget: markdown }
+
+      - label: Tarifs et horaires
+        name: tarifs-et-horaires
+        file: content/tarifs-et-horaires.md
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Contenu, name: body, widget: markdown }
+
+      - label: Actualités (intro)
+        name: actualites
+        file: content/actualites/_index.md
         fields:
           - { label: Titre, name: title, widget: string }
           - { label: Description, name: description, widget: string }
@@ -44,3 +68,33 @@ collections:
           - { label: Titre, name: title, widget: string }
           - { label: Description, name: description, widget: string }
           - { label: Contenu, name: body, widget: markdown }
+
+      - label: Qui suis-je ?
+        name: qui-suis-je
+        file: content/qui-suis-je.md
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Contenu, name: body, widget: markdown }
+
+      - label: FAQ
+        name: faq
+        file: content/faq.md
+        fields:
+          - { label: Titre, name: title, widget: string }
+          - { label: Description, name: description, widget: string }
+          - { label: Contenu, name: body, widget: markdown }
+
+  - name: actualites-articles
+    label: Actualités — Articles
+    folder: content/actualites
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    filter:
+      field: _index
+      value: false
+    fields:
+      - { label: Titre, name: title, widget: string }
+      - { label: Date, name: date, widget: datetime }
+      - { label: Description, name: description, widget: string, required: false }
+      - { label: Contenu, name: body, widget: markdown }

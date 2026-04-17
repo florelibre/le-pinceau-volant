@@ -2,9 +2,21 @@
 <article class="page">
   <div class="container">
     <h1>{{ .Title }}</h1>
-    <div class="content">
-      {{ .Content }}
-    </div>
+    {{ with .Content }}
+    <div class="content">{{ . }}</div>
+    {{ end }}
+    {{ if .Pages }}
+    <ul class="article-list">
+      {{ range .Pages.ByDate.Reverse }}
+      <li>
+        <a href="{{ .RelPermalink }}">
+          <span class="article-title">{{ .Title }}</span>
+          <span class="article-date">{{ .Date.Format "2 janvier 2006" }}</span>
+        </a>
+      </li>
+      {{ end }}
+    </ul>
+    {{ end }}
   </div>
 </article>
 {{ end }}
