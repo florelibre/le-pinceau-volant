@@ -3,10 +3,9 @@ title: La peinture libre
 description: Explorez la peinture libre avec Flore — une approche intuitive et expressive de la couleur et du geste.
 ---
 
-## La peinture libre
+# La peinture libre
 
-1) Qu’est-ce que c’est ?
-
+#### Qu’est-ce que c’est ?
 
 Les séances de peinture libre proposent de venir expérimenter le plaisir de peindre sans consigne ni apprentissage technique.
 
@@ -16,31 +15,7 @@ Dans un espace protégé des regards extérieurs, on joue à peindre, avec conce
 
 ![](/images/Atelier%20gouache%202.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2) Pourquoi ?
+#### Pourquoi ?
 
 L’activité n’est pas un cours, on n’y apprend pas de technique picturale. C’est un espace hors du temps et des conventions sociales, où l’être humain peut être pleinement présent et disponible à soi, et ainsi se consacrer à son besoin de créer.
 
@@ -48,23 +23,7 @@ Les créations ne sont pas vues par les personnes extérieures à l’atelier, d
 
 ![](/images/Ateier%20Gouache%203.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2) Pour qui ?
+#### Pour qui ?
 
 Les séances de peinture libre accueillent un public mélangé d’enfants, adolescents et adultes. Elles sont accessibles à partir de 3 ans. La pratique artistique de chacun.e s’enrichit au contact des autres générations.
 
@@ -78,8 +37,7 @@ Chacun.e a connaissance des principes et valeurs de l’atelier. Il/elle s’eng
 
 Les besoins particuliers sont portés à la connaissance de la médiatrice avant le début de l’année afin qu’elle puisse prévoir les adaptations nécessaires.
 
-
-3) Avec quel matériel ?
+#### Avec quel matériel ?
 
 La table-palette offre entre 12 et 18 couleurs sous forme de gouache semi-liquide. Au centre de la pièce, elle est au cœur de l’activité du groupe. Chaque participant.e va et vient de la table à sa feuille pour choisir successivement différentes couleurs à peindre. Les pinceaux sont également disposés sur la table-palette. Ainsi, chacun.e est concentré.e sur son œuvre personnelle, tout en participant à une activité collective, où le matériel est partagé.
 
@@ -89,25 +47,7 @@ Les feuilles (grand format raisin) sont affichées directement au mur.
 
 ![](/images/Atelier%20Gouache%201.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4) Avec qui ?
+#### Avec qui ?
 
 Dans les séance de peinture libre, je n’enseigne pas. J’assume un rôle de médiation. Il consiste à organiser de façon harmonieuse la séance de peinture.
 
@@ -115,16 +55,13 @@ Je veille à la fois sur l’accessibilité du matériel et sur le bien-être de
 
 Après la séance, j’inventorie les œuvres afin que les personnes qui le souhaitent puissent les poursuivre lors de la séance suivante. Les œuvres terminées seront recyclées.
 
-
-
-5 ) Les valeurs
+#### Les valeurs
 
 Sécurité physique et psychique. Volontariat. Autonomie. Respect de l’intimité exprimée sur la feuille. Libre choix dans la peinture. Respect du rythme du chacun.e. Non-jugement. Droit à l’expérimentation et la répétition. Inclusion.
 
 La peinture libre est librement inspirée du concept de « Jeu de peindre » développé par Arno Stern.
 
-
-6) D’autres ateliers de peinture libre
+#### D’autres ateliers de peinture libre
 
 [https://loujeupeins.fr/](https://loujeupeins.fr/) à Villeurbanne
 
