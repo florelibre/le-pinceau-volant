@@ -3,8 +3,6 @@ title: La peinture libre
 description: Explorez la peinture libre avec Flore — une approche intuitive et expressive de la couleur et du geste.
 ---
 
-# La peinture libre
-
 #### Qu’est-ce que c’est ?
 
 Les séances de peinture libre proposent de venir expérimenter le plaisir de peindre sans consigne ni apprentissage technique.
