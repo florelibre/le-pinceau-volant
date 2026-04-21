@@ -28,30 +28,44 @@ Les créations ne sont pas vues par les personnes extérieures à l’atelier (p
 #### Le public
 
 - Multi-générationnel : la pratique artistique s’enrichit au contact des autres générations.
-
 - Âgé de 3 ans à 103 ans 
-
 - Volontaire :  nul ne peut être forcé de participer à l’atelier.
-
+- Divers : chaque personne est unique. L'atelier s'adapte du mieux possibles à vos besoins.
 - Actif : toutes les personnes présentes peignent. Il n’y a pas de spectateur.
-
+- Respectueux des principes et valeurs de l’atelier.
 - Groupe de maximum 10 personnes, inscrites pour l’année scolaire.
 
-- Respectueux des principes et valeurs de l’atelier. 
+#### Le matériel
 
-Les besoins particuliers sont portés à la connaissance de la médiatrice avant le début de l’année afin qu’elle puisse prévoir les adaptations nécessaires.
+- La table-palette : 12 à 18 couleurs sous forme de gouache semi-liquide. Des gobelets d'eau. Deux pinceaux par couleur.
 
-#### Avec quel matériel ?
-
-La table-palette offre entre 12 et 18 couleurs sous forme de gouache semi-liquide. Au centre de la pièce, elle est au cœur de l’activité du groupe. Chaque participant.e va et vient de la table à sa feuille pour choisir successivement différentes couleurs à peindre. Les pinceaux sont également disposés sur la table-palette. Ainsi, chacun.e est concentré.e sur son œuvre personnelle, tout en participant à une activité collective, où le matériel est partagé.
+Au centre de la pièce, elle est au cœur de l’activité du groupe. Chacun va et vient de la table à sa feuille pour choisir successivement différentes couleurs à peindre.  
 
 Lorsqu’une personne est limitée dans sa mobilité, une petite palette individuelle peut lui être proposée afin de ne pas avoir à se déplacer.
 
-Les feuilles (grand format raisin) sont affichées directement au mur.
+- Les feuilles (grand format raisin) sont punaisées directement au mur.
 
 ![](/images/Atelier%20Gouache%201.png)
 
-#### Avec qui ?
+#### Les valeurs
+
+Sécurité physique et psychique. 
+
+Volontariat. 
+
+Autonomie. 
+
+Respect de l’intimité exprimée sur la feuille. 
+
+Libre choix dans la peinture. Respect du rythme du chacun.e. 
+
+Non-jugement. 
+
+Droit à l’expérimentation et la répétition. Inclusion.
+
+La peinture libre est librement inspirée du concept de « Jeu de peindre » développé par Arno Stern.
+
+#### Médiation
 
 Dans les séance de peinture libre, je n’enseigne pas. J’assume un rôle de médiation. Il consiste à organiser de façon harmonieuse la séance de peinture.
 
@@ -59,11 +73,7 @@ Je veille à la fois sur l’accessibilité du matériel et sur le bien-être de
 
 Après la séance, j’inventorie les œuvres afin que les personnes qui le souhaitent puissent les poursuivre lors de la séance suivante. Les œuvres terminées seront recyclées.
 
-#### Les valeurs
-
-Sécurité physique et psychique. Volontariat. Autonomie. Respect de l’intimité exprimée sur la feuille. Libre choix dans la peinture. Respect du rythme du chacun.e. Non-jugement. Droit à l’expérimentation et la répétition. Inclusion.
-
-La peinture libre est librement inspirée du concept de « Jeu de peindre » développé par Arno Stern.
+#### 
 
 #### D’autres ateliers de peinture libre
 
