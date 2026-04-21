@@ -3,35 +3,41 @@ title: La peinture libre
 description: Explorez la peinture libre avec Flore — une approche intuitive et expressive de la couleur et du geste.
 ---
 
-#### Qu’est-ce que c’est ?
+#### Jouez avec les formes, les couleurs et la matière !
 
 Les séances de peinture libre proposent de venir expérimenter le plaisir de peindre sans consigne ni apprentissage technique.
 
-Pendant 1h30, les participant.e.s accèdent à une forme de jeu libre où la peinture, les pinceaux et la feuille de papier sont leurs outils. Ici, on improvise et on crée sans souci de la performance ni du résultat.
+Ici, vous improvisez et on créez sans vous soucier de la performance ni du résultat.
 
-Dans un espace protégé des regards extérieurs, on joue à peindre, avec concentration et précision, selon son inspiration et ses besoins du moment. Une peinture commencée un jour peut être poursuivie lors d’une prochaine séance. Elle peut être prolongée et développée sur plusieurs feuilles. Une fois terminée, les peintures ne sont pas conservées par les participant.e.s. Elle sont recyclées pour d’autres pratiques artistiques.
+Dans un espace calme, protégé des regards extérieurs, vous peignez selon l'inspiration du moment, avec concentration et précision.
+
+Une peinture commencée un jour peut être poursuivie lors d’une prochaine séance. Elle peut être prolongée et développée sur plusieurs feuilles. 
+
+Vous ne rapportez pas vos peintures chez vous. Une fois terminées, elles sont recyclées pour les séances d'arts plastiques (papier mâché, découpage, collage...). L'essentiel réside dans l'expérience vécue.
 
 ![](/images/Atelier%20gouache%202.png)
 
-#### Pourquoi ?
+#### Peignez en toute liberté.
 
 L’activité n’est pas un cours, on n’y apprend pas de technique picturale. C’est un espace hors du temps et des conventions sociales, où l’être humain peut être pleinement présent et disponible à soi, et ainsi se consacrer à son besoin de créer.
 
-Les créations ne sont pas vues par les personnes extérieures à l’atelier, dans le but de libérer les participant.e.s de la notion de jugement, de réussite, de beau. Les œuvres ne sont pas commentées au sein de l’atelier. Chacun.e peut exprimer son intériorité en sécurité.
+Les créations ne sont pas vues par les personnes extérieures à l’atelier (parents, amis éducateurs...). Les notions de jugement et de réussite ne comptent pas. Les œuvres ne sont pas commentées au sein de l’atelier. Vous peignez pour vous, pour vous exprimer et vous nourrir.
 
 ![](/images/Ateier%20Gouache%203.png)
 
-#### Pour qui ?
+#### Le public
 
-Les séances de peinture libre accueillent un public mélangé d’enfants, adolescents et adultes. Elles sont accessibles à partir de 3 ans. La pratique artistique de chacun.e s’enrichit au contact des autres générations.
+- Multi-générationnel : la pratique artistique s’enrichit au contact des autres générations.
 
-Les participant.e.s sont toujours volontaires pour peindre. Nul ne peut être forcé de participer à l’atelier.
+- Âgé de 3 ans à 103 ans 
 
-Toutes les personnes présentes peignent. Il n’y a pas de spectateur.
+- Volontaire :  nul ne peut être forcé de participer à l’atelier.
 
-Le groupe est composé de maximum 10 personnes inscrites pour l’année scolaire.
+- Actif : toutes les personnes présentes peignent. Il n’y a pas de spectateur.
 
-Chacun.e a connaissance des principes et valeurs de l’atelier. Il/elle s’engage à les respecter.
+- Groupe de maximum 10 personnes, inscrites pour l’année scolaire.
+
+- Respectueux des principes et valeurs de l’atelier. 
 
 Les besoins particuliers sont portés à la connaissance de la médiatrice avant le début de l’année afin qu’elle puisse prévoir les adaptations nécessaires.
 
