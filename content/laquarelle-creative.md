@@ -17,11 +17,6 @@ Il n’est pas nécessaire de savoir dessiner. Les œuvres, bien que figuratives
 
 ![](/images/S%C3%A9ance%20fonds%20marin.jpeg)
 
-
-
-
-
-
 #### Le public
 
 Multi-générationnel
@@ -30,7 +25,7 @@ Enfants à partir de 10 ans, adolescents et adultes.
 
 Pas de pré-requis en dessin ou peinture.
 
-Débutants en aquarelle ou initiés souhaitant revoir les bases en groupe.
+Débutants en aquarelle ou initiés souhaitant revoir les bases d'une manière créative.
 
 #### Les séances
 
@@ -40,16 +35,16 @@ Hebdomadaires
 
 Une séance d’essai puis inscription à l’année
 
-Le matériel utilisé
+#### Le matériel utilisé
 
 Il est fourni.
 
 Pour les personnes qui voudraient utiliser un matériel équivalent chez elles, voici les références :
 
 - Aquarelle en tubes de la marque Sennelier
-
 - Papier aquarelle 100 % coton, grain fin, 300g/m2 
-
 - Pinceau imitation petit-gris de la marque Phoenix. Les budgets généreux, les pinceaux en poil véritable conviennent évidemment.
+
+![](/images/Pivoines.jpeg)
 
 _À compléter via le CMS._
