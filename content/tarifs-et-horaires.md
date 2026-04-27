@@ -29,7 +29,6 @@ Matériel fourni
 
 Option pedibus à 16h + temps du goûter à l’atelier : 96 euros /année (disponible uniquement pour le groupe scolaire Menon. Goûter non fourni)
 
-
 **Séance d’essai : 10 euros**
 
 **Fratrie : réduction 5 % à partir de la deuxième personne**
