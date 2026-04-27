@@ -15,13 +15,11 @@ Matériel fourni
 
 Option pedibus à 16h + temps du goûter à l’atelier : 96 euros /année (disponible uniquement pour le groupe scolaire Menon. Goûter non fourni)
 
-
 #### Aquarelle créative
 
 592 euros / année, soit 32 séances d’1h30
 
 Matériel fourni
-
 
 #### Arts plastiques
 
@@ -32,11 +30,9 @@ Matériel fourni
 Option pedibus à 16h + temps du goûter à l’atelier : 96 euros /année (disponible uniquement pour le groupe scolaire Menon. Goûter non fourni)
 
 
-
 **Séance d’essai : 10 euros**
 
 **Fratrie : réduction 5 % à partir de la deuxième personne**
-
 
 ### Inscriptions
 
