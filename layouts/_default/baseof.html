@@ -13,12 +13,12 @@
 <body{{ with .File }}{{ with .BaseFileName }} class="{{ . }}"{{ end }}{{ end }}>
   <header>
     <div class="container">
-      <a href="{{ .Site.Home.RelPermalink }}" class="site-title">{{ .Site.Title }}</a>
       <button id="menu-toggle" aria-expanded="false" aria-label="Ouvrir le menu">
         <span></span>
         <span></span>
         <span></span>
       </button>
+      <a href="{{ .Site.Home.RelPermalink }}" class="site-title">{{ .Site.Title }}</a>
     </div>
   </header>
 
