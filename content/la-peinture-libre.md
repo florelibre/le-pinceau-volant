@@ -23,6 +23,8 @@ L’activité n’est pas un cours, on n’y apprend pas de technique picturale.
 
 Les créations ne sont pas vues par les personnes extérieures à l’atelier (parents, amis éducateurs...). Les notions de jugement et de réussite ne comptent pas. Les œuvres ne sont pas commentées au sein de l’atelier. Vous peignez pour vous, pour vous exprimer et vous nourrir.
 
+Les oeuvres terminées ne sortent pas de l'atelier. Elles seront recyclées.
+
 ![](/images/Ateier%20Gouache%203.png)
 
 #### Le public
