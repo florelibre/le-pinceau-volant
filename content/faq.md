@@ -27,17 +27,15 @@ Les parents de jeunes enfants qui souhaitent rester sur place sont invités à s
 
 Plusieurs membres d’une famille peuvent participer à la même séance, à condition d’être tous dans une posture de création et de respecter les règles de l’atelier : non jugement, bienveillance, pas de commentaires sur les productions.
 
-
 #### Est-ce que je dois respecter les horaires ?
 
 Oui, en aquarelle créative et en arts plastiques car ce sont des séances guidées.
 
 Non, en peinture libre, dans la mesure ou j’entre et sors discrètement. Le temps de la séance peut être trop long pour certaines personnes. Je peux partir avant la fin. De même, si je ne peux pas commencer à l’heure prévue, mieux vaut arriver détendu et prêt à peindre que pressé et stressé.
 
-Comment se passent les séances de peinture libre pour les très jeunes enfants ?
+#### Comment se passent les séances de peinture libre pour les très jeunes enfants ?
 
 J’attache une attention particulière aux très jeunes enfants en début d’année. J’accompagne chacun pour apprendre à enfiler un tablier, utiliser le pinceau, positionner sa feuille, choisir une couleur, etc. l’activité étant très ritualisée, la confiance vient vite. La mixité des âges permet à chacun de trouver sa place et d’être entendu dans ses besoins.
-
 
 #### Qu’est que le pedibus ?
 
