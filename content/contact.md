@@ -5,6 +5,12 @@ description: Me contacter
 
 ## Me contacter
 
-Pour toute commande, question ou simplement pour dire bonjour, envoyez-moi un message :
+Atelier du Pinceau Volant
 
-**Email :** [&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#108;&#101;&#112;&#105;&#110;&#99;&#101;&#97;&#117;&#118;&#111;&#108;&#97;&#110;&#116;&#46;&#102;&#114;](mailto:&#99;&#111;&#110;&#116;&#97;&#99;&#116;&#64;&#108;&#101;&#112;&#105;&#110;&#99;&#101;&#97;&#117;&#118;&#111;&#108;&#97;&#110;&#116;&#46;&#102;&#114;)
+2 rue Casimir Périer
+
+38000 Grenoble
+
+**Email :** [contact@lepinceauvolant.fr](mailto:contact@lepinceauvolant.fr)
+
+Les demandes d'inscription se font par email. Pour les séances de peinture libre et d'arts plastiques, je vous proposerai au préalable un rdv téléphonique ou en présentiel.
