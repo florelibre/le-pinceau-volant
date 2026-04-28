@@ -51,12 +51,17 @@ main {
 
 /* ===== Header ===== */
 header {
-  background: var(--white);
+  background-image: url('../images/bandeau.jpeg');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: var(--white);
+  aspect-ratio: 2915 / 509;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
   border-bottom: 1px solid var(--border);
-  padding: 1.25rem 0;
-  position: sticky;
-  top: 0;
-  z-index: 300;
 }
 
 header .container {
@@ -64,6 +69,7 @@ header .container {
   align-items: center;
   justify-content: space-between;
   gap: 2rem;
+  padding-bottom: 0.75rem;
 }
 
 .site-title {
