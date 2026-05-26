@@ -1,9 +1,9 @@
 ---
-title: Les arts plastiques
+title: Création collective
 description: Explorez les arts plastiques avec Flore — dessin, collage, mixed media et expérimentations.
 ---
 
-## Les arts plastiques
+## Création collective
 
 Venez fabriquer des objets insolites et jouer avec les matériaux, les couleurs et les techniques !
 

@@ -37,9 +37,9 @@ collections:
           - { label: Description, name: description, widget: string }
           - { label: Contenu, name: body, widget: markdown }
 
-      - label: Les arts plastiques
-        name: les-arts-plastiques
-        file: content/les-arts-plastiques.md
+      - label: Création collective
+        name: creation-collective
+        file: content/creation-collective.md
         fields:
           - { label: Titre, name: title, widget: string }
           - { label: Description, name: description, widget: string }
