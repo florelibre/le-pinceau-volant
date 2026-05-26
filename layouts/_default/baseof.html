@@ -23,6 +23,7 @@
   </header>
 
   <div id="nav-overlay" role="dialog" aria-label="Navigation">
+    <button id="nav-close" aria-label="Fermer le menu">&times;</button>
     <nav>
       {{ range .Site.Menus.main }}
       <a href="{{ .URL }}"{{ if eq $.RelPermalink .URL }} class="active"{{ end }}>{{ .Name }}</a>
@@ -43,15 +44,25 @@
   <script>
     var toggle = document.getElementById('menu-toggle');
     var overlay = document.getElementById('nav-overlay');
+
+    function closeMenu() {
+      document.body.classList.remove('nav-open');
+      toggle.setAttribute('aria-expanded', 'false');
+    }
+
     toggle.addEventListener('click', function () {
       var isOpen = document.body.classList.toggle('nav-open');
       toggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
     });
+
+    document.getElementById('nav-close').addEventListener('click', closeMenu);
+
     overlay.addEventListener('click', function (e) {
-      if (e.target.tagName === 'A') {
-        document.body.classList.remove('nav-open');
-        toggle.setAttribute('aria-expanded', 'false');
-      }
+      if (e.target.tagName === 'A') closeMenu();
+    });
+
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape') closeMenu();
     });
   </script>
 </body>

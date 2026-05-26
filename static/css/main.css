@@ -157,6 +157,24 @@ body.nav-open {
   overflow: hidden;
 }
 
+#nav-close {
+  position: absolute;
+  top: 1.25rem;
+  right: 1.5rem;
+  background: none;
+  border: none;
+  font-size: 2rem;
+  line-height: 1;
+  color: var(--text);
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+  transition: color 0.2s;
+}
+
+#nav-close:hover {
+  color: var(--accent);
+}
+
 #nav-overlay nav {
   display: flex;
   flex-direction: column;
