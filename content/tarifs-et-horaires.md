@@ -21,15 +21,11 @@ Option pedibus à 16h + temps du goûter à l’atelier : 96 euros /année (dis
 
 Matériel fourni
 
-#### Arts plastiques
-
-480 euros / année, soit 32 séances d’1h30
-
-Matériel fourni
-
 Option pedibus à 16h + temps du goûter à l’atelier : 96 euros /année (disponible uniquement pour le groupe scolaire Menon. Goûter non fourni)
 
-**Séance d’essai : 10 euros**
+#### Création collective
+
+45 euros pour une séance de 2h, comprenant le matériel et le brunch
 
 **Fratrie : réduction 5 % à partir de la deuxième personne**
 
@@ -42,6 +38,8 @@ Formulaire à remplir :
 Je m’assure que vous ou votre enfant avez bien cerné les principes de ces pratiques.
 
 Aquarelle créative : inscription par email : [contact@lepinceauvolant.fr](mailto:contact@lepinceauvolant.fr)
+
+Création collective : inscription pour l'atelier mensuel ou demande de devis pour des groupes spécifiques, par email : [contact@lepinceauvolant.fr](mailto:contact@lepinceauvolant.fr)
 
 Formulaire à remplir :
 
