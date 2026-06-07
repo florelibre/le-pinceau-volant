@@ -15,3 +15,5 @@ description: ""
 **Vendredi 03 juillet de 17h00 à 18h30 : peinture libre.** Enfants (à partir de 3 ans), ados, adultes.
 
 **Samedi 04 juillet de 10h à 12h : création collective et brunch**. Enfants (à partir de 8 ans), ados, adultes.
+
+**Inscription obligatoire : contact@lepinceauvolant.fr**
