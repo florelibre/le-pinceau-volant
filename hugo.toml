@@ -2,6 +2,7 @@ baseURL = "https://lepinceauvolant.fr/"
 languageCode = "fr-FR"
 title = "Le Pinceau Volant"
 defaultContentLanguage = "fr"
+timeZone = "Europe/Paris"
 
 [params]
   description = "Peintures à l'huile et aquarelles sur commande"
