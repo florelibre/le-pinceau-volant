@@ -13,4 +13,4 @@ Atelier du Pinceau Volant
 
 **Email :** [contact@lepinceauvolant.fr](mailto:contact@lepinceauvolant.fr)
 
-Les demandes d'inscription se font par email. Pour les séances de peinture libre et d'arts plastiques, je vous proposerai au préalable un rdv téléphonique ou en présentiel.
+Les demandes d'inscription se font par email. Pour les séances de peinture libre, je vous proposerai au préalable un rdv téléphonique ou en présentiel.
