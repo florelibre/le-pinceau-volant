@@ -9,13 +9,15 @@ description: Questions fréquentes sur les cours, ateliers et commandes du Pince
 
 Non, pour les séances de peinture libre.
 
-Oui, pour l’aquarelle créative et les arts plastiques.
+Oui, pour l’aquarelle créative.
+
+Pour les brunch créatifs, nous pourrons découper un morceau de la nappe peinte, à rapporter à la maison.
 
 En peinture libre, il est important que les œuvres ne soient pas vues à l’extérieur pour libérer sa créativité et se consacrer à l’expérience vécue. Ce principe est valable pour les enfants comme pour les adultes.
 
 #### En aquarelle créative, est-ce que je vais apprendre à dessiner et peindre de manière réaliste ?
 
-Non, il n’y a pas d’apprentissage du dessin académique dans ce cours. Vous ne peindrez pas de natures mortes à la manière des peintres hollandais de la Renaissance. Vous n’effectuerez pas non plus le portrait de votre chat ou de votre grand-mère.
+Non, il n’y a pas d’apprentissage du dessin académique dans ce cours. Seulement des notions basiques autour de la lumière et des ombres ainsi que principes simples sur la perspective. Vous ne peindrez pas de natures mortes à la manière des peintres hollandais de la Renaissance. Vous n’effectuerez pas non plus le portrait de votre chat ou de votre grand-mère.
 
 Nous peindrons des thèmes figuratifs, comme les arbres, les fonds marins, les fleurs, les paysages, etc. Mais nous nous attacherons surtout à la façon d’utiliser les pigments, l’eau et le pinceau pour produire différents effets, nuances, lumières. Nous laisserons une grande place à l’imaginaire de chacun.
 
@@ -29,9 +31,9 @@ Plusieurs membres d’une famille peuvent participer à la même séance, à con
 
 #### Est-ce que je dois respecter les horaires ?
 
-Oui, en aquarelle créative et en arts plastiques car ce sont des séances guidées.
+Oui, en aquarelle créative et pour le brunch créatif, car ce sont des séances guidées.
 
-Non, en peinture libre, dans la mesure ou j’entre et sors discrètement. Le temps de la séance peut être trop long pour certaines personnes. Je peux partir avant la fin. De même, si je ne peux pas commencer à l’heure prévue, mieux vaut arriver détendu et prêt à peindre que pressé et stressé.
+Non, en peinture libre, dans la mesure ou j’entre et sors discrètement. Le temps de la séance peut être trop long pour certaines personnes. Je peux partir avant la fin. De même, si je ne peux pas commencer à l’heure prévue, mieux vaut arriver détendu et prêt à peindre, que pressé et stressé.
 
 #### Comment se passent les séances de peinture libre pour les très jeunes enfants ?
 
@@ -39,4 +41,4 @@ J’attache une attention particulière aux très jeunes enfants en début d’a
 
 #### Qu’est que le pedibus ?
 
-Pour les séances ayant lieu à 16h30, vous pouvez inscrire votre enfant au pedibus s’il est scolarisé dans le groupe scolaire Menon. Je viens chercher les enfants à l’école, d’abord à la maternelle, puis sur le site Hébert, et enfin sur le site Gémond. Nous allons ensemble à l’atelier. Les enfants ont le temps de manger le goûter qu’ils ont dans leur sac avant de commencer à peindre._À compléter via le CMS._
+Pour les séances ayant lieu à 16h30, vous pouvez inscrire votre enfant au pedibus s’il est scolarisé dans le groupe scolaire Menon (voir les tarifs). Je viens chercher les enfants à l’école, d’abord à la maternelle, puis sur le site Hébert, et enfin sur le site Gémond. Nous allons ensemble à l’atelier. Les enfants ont le temps de manger le goûter qu’ils ont dans leur sac avant de commencer à peindre._À compléter via le CMS._
