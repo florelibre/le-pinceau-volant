@@ -17,30 +17,34 @@ Option pedibus à 16h + temps du goûter à l’atelier : 96 euros /année (dis
 
 #### Aquarelle créative
 
-592 euros / année, soit 32 séances d’1h30
+560 euros / année, soit 32 séances d’1h30
 
 Matériel fourni
 
 Option pedibus à 16h + temps du goûter à l’atelier : 96 euros /année (disponible uniquement pour le groupe scolaire Menon. Goûter non fourni)
 
-#### Création collective
+#### Brunch créatif
 
-45 euros pour une séance de 2h, comprenant le matériel et le brunch
+50 euros pour une séance de 2h, comprenant le matériel et le brunch
 
 **Fratrie : réduction 5 % à partir de la deuxième personne**
 
 ### Inscriptions
 
-Pour la peinture libre et les arts plastiques, les inscriptions se font sur rdv, par téléphone ou en présentiel. Demande d’inscription : [contact@lepinceauvolant.fr](mailto:contact@lepinceauvolant.fr)
+Pour la peinture libre, les inscriptions se font sur rdv, par téléphone ou en présentiel. Demande d’inscription : [contact@lepinceauvolant.fr](mailto:contact@lepinceauvolant.fr)
 
-Formulaire à remplir :
+Formulaire à remplir : _bientôt en ligne_
 
 Je m’assure que vous ou votre enfant avez bien cerné les principes de ces pratiques.
 
 Aquarelle créative : inscription par email : [contact@lepinceauvolant.fr](mailto:contact@lepinceauvolant.fr)
 
-Création collective : inscription pour l'atelier mensuel ou demande de devis pour des groupes spécifiques, par email : [contact@lepinceauvolant.fr](mailto:contact@lepinceauvolant.fr)
+Brunch créatif : inscription pour l'atelier mensuel ou demande de devis pour des groupes spécifiques, par email : [contact@lepinceauvolant.fr](mailto:contact@lepinceauvolant.fr)
 
-Formulaire à remplir :
+Formulaire à remplir: _bientôt en ligne_
+
+### Horaires
+
+_Bientôt en ligne_
 
 _À compléter via le CMS._
