@@ -33,7 +33,7 @@ Adultes
 
 Atelier mensuel, tous les premiers samedi du mois, en dehors des vacances scolaires.
 
-_Groupes spécifiques sur devis (familles, collègues, amis…)_
+_Groupes spécifiques sur devis (familles, collègues, amis, anniversaires…)_
 
 Ouvert à toutes et tous. Aucun pré-requis en dessin. Que la peinture vous enchante ou vous terrorise, cet espace est fait pour vous !
 
@@ -44,3 +44,5 @@ Ouvert à toutes et tous. Aucun pré-requis en dessin. Que la peinture vous ench
 #### Partenaires
 
 @ostara.fleuriste, fleuriste éco-responsable, 31 rue de Mortillet, Grenoble (Île Verte)
+
+Fre(n)sh bakery, 2 place Vaucanson, Grenoble
