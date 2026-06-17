@@ -7,13 +7,13 @@ description: Explorez la peinture libre avec Flore — une approche intuitive et
 
 Les séances de peinture libre proposent de venir expérimenter le plaisir de peindre sans consigne ni apprentissage technique.
 
-Ici, vous improvisez et on créez sans vous soucier de la performance ni du résultat.
+Ici, vous improvisez et créez sans vous soucier de la performance ni du résultat.
 
 Dans un espace calme, protégé des regards extérieurs, vous peignez selon l'inspiration du moment, avec concentration et précision.
 
 Une peinture commencée un jour peut être poursuivie lors d’une prochaine séance. Elle peut être prolongée et développée sur plusieurs feuilles. 
 
-Vous ne rapportez pas vos peintures chez vous. Une fois terminées, elles sont recyclées pour les séances d'arts plastiques (papier mâché, découpage, collage...). L'essentiel réside dans l'expérience vécue.
+Vous ne rapportez pas vos peintures chez vous. Une fois terminées, elles sont archivées à l'atelier jusqu'à la fin de l'année scolaire, puis recyclées. L'essentiel réside dans l'expérience vécue.
 
 ![](/images/Atelier%20gouache%202.png)
 
@@ -32,14 +32,14 @@ Les oeuvres terminées ne sortent pas de l'atelier. Elles seront recyclées.
 - Multi-générationnel : la pratique artistique s’enrichit au contact des autres générations.
 - Âgé de 3 ans à 103 ans 
 - Volontaire :  nul ne peut être forcé de participer à l’atelier.
-- Divers : chaque personne est unique. L'atelier s'adapte du mieux possibles à vos besoins.
+- Divers : chaque personne est unique. L'atelier s'adapte du mieux possible à vos besoins.
 - Actif : toutes les personnes présentes peignent. Il n’y a pas de spectateur.
 - Respectueux des principes et valeurs de l’atelier.
-- Groupe de maximum 10 personnes, inscrites pour l’année scolaire.
+- Groupe de maximum 10 personnes.
 
 #### Le matériel
 
-- La table-palette : 12 à 18 couleurs sous forme de gouache semi-liquide. Des gobelets d'eau. Deux pinceaux par couleur.
+- La table-palette : 18 couleurs sous forme de gouache semi-liquide. Des gobelets d'eau. Deux pinceaux par couleur.
 
 Au centre de la pièce, elle est au cœur de l’activité du groupe. Chacun va et vient de la table à sa feuille pour choisir successivement différentes couleurs à peindre.  
 
@@ -71,7 +71,7 @@ La peinture libre est librement inspirée du concept de « Jeu de peindre » d
 
 Dans les séance de peinture libre, je n’enseigne pas. J’assume un rôle de médiation. Il consiste à organiser de façon harmonieuse la séance de peinture.
 
-Je veille à la fois sur l’accessibilité du matériel et sur le bien-être des participant.e.s. Je vous accueille, vous présente le dispositif et vous met à l’aise. J’adapte le matériel aux besoins spécifiques. Je peux encourager, rassurer, réguler si nécessaire. Je prend soin des besoins de chaque personne et veille au respect des valeurs de l’atelier.
+Je veille à la fois sur l’accessibilité du matériel et sur le bien-être des participant.e.s. Je vous accueille, vous présente le dispositif et vous met à l’aise. J’adapte le matériel aux besoins spécifiques. Je peux encourager, rassurer, réguler si nécessaire. Je prend soin des besoins de chaque personne et veille au respect des valeurs de l’atelier. Je veille à l'atmosphère calme du lieu, permettant la concentration.
 
 Après la séance, j’inventorie les œuvres afin que les personnes qui le souhaitent puissent les poursuivre lors de la séance suivante. Les œuvres terminées seront recyclées.
 
