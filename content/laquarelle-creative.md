@@ -13,7 +13,7 @@ Au fil de l’année, nous découvrons les techniques de base pour diluer les pi
 
 Ce cours propose de jouer avec la matière et de se familiariser avec l’univers de l’aquarelle à travers des réalisations simples.
 
-Il n’est pas nécessaire de savoir dessiner. Les œuvres, bien que figuratives, ne visent pas une représentation photographique de la réalité. Nous aborderons des paysages, des feuillages, des fleurs, des fonds marins, la nature en générale. Nous n’utiliserons pas la perspective académique.
+Il n’est pas nécessaire de savoir dessiner. Les œuvres, bien que figuratives, ne visent pas une représentation photographique de la réalité. Nous aborderons des paysages, des feuillages, des fleurs, des fonds marins, la nature en générale. Nous aborderons des notions simples de dessin afin de soutenir la création. Nous aiguiserons notre regard sur les ombres et la lumière.
 
 ![](/images/S%C3%A9ance%20fonds%20marin.jpeg)
 
@@ -43,7 +43,7 @@ Pour les personnes qui voudraient utiliser un matériel équivalent chez elles, 
 
 - Aquarelle en tubes de la marque Sennelier
 - Papier aquarelle 100 % coton, grain fin, 300g/m2 
-- Pinceau imitation petit-gris de la marque Phoenix. Les budgets généreux, les pinceaux en poil véritable conviennent évidemment.
+- Pinceau imitation petit-gris de la marque Phoenix. Pour les budgets généreux, les pinceaux en poil véritable conviennent également.
 
 ![](/images/Pivoines.jpeg)
 
