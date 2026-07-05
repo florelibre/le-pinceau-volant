@@ -15,7 +15,7 @@ Ce cours propose de jouer avec la matière et de se familiariser avec l’univer
 
 Il n’est pas nécessaire de savoir dessiner. Les œuvres, bien que figuratives, ne visent pas une représentation photographique de la réalité. Nous aborderons des paysages, des feuillages, des fleurs, des fonds marins, la nature en générale. Nous aborderons des notions simples de dessin afin de soutenir la création. Nous aiguiserons notre regard sur les ombres et la lumière.
 
-![](/images/S%C3%A9ance%20fonds%20marin.jpeg)
+![Aquarelle de fonds marins réalisée en cours d'aquarelle créative](/images/S%C3%A9ance%20fonds%20marin.jpeg)
 
 #### Le public
 
@@ -42,9 +42,7 @@ Il est fourni.
 Pour les personnes qui voudraient utiliser un matériel équivalent chez elles, voici les références :
 
 - Aquarelle en tubes de la marque Sennelier
-- Papier aquarelle 100 % coton, grain fin, 300g/m2 
+- Papier aquarelle 100 % coton, grain fin, 300g/m2
 - Pinceau imitation petit-gris de la marque Phoenix. Pour les budgets généreux, les pinceaux en poil véritable conviennent également.
 
-![](/images/Pivoines.jpeg)
-
-_À compléter via le CMS._
+![Aquarelle de pivoines — réalisation en cours d'aquarelle créative](/images/Pivoines.jpeg)

@@ -15,7 +15,7 @@ Une peinture commencée un jour peut être poursuivie lors d’une prochaine sé
 
 Vous ne rapportez pas vos peintures chez vous. Une fois terminées, elles sont archivées à l'atelier jusqu'à la fin de l'année scolaire, puis recyclées. L'essentiel réside dans l'expérience vécue.
 
-![](/images/Atelier%20gouache%202.png)
+![Participants en séance de peinture libre, feuilles grand format punaisées au mur](/images/Atelier%20gouache%202.jpg)
 
 #### Peignez en toute liberté.
 
@@ -25,7 +25,7 @@ Les créations ne sont pas vues par les personnes extérieures à l’atelier (p
 
 Les oeuvres terminées ne sortent pas de l'atelier. Elles seront recyclées.
 
-![](/images/Ateier%20Gouache%203.png)
+![Personne concentrée devant sa feuille lors d'une séance de peinture libre](/images/Ateier%20Gouache%203.jpg)
 
 #### Le public
 
@@ -47,7 +47,7 @@ Lorsqu’une personne est limitée dans sa mobilité, une petite palette individ
 
 - Les feuilles (grand format raisin) sont punaisées directement au mur.
 
-![](/images/Atelier%20Gouache%201.png)
+![Table-palette de l'atelier avec les couleurs de gouache et les pinceaux](/images/Atelier%20Gouache%201.jpg)
 
 #### Les valeurs
 

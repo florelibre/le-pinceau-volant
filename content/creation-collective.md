@@ -7,7 +7,7 @@ description: Explorez les arts plastiques avec Flore — dessin, collage, mixed 
 
 Venez partager un moment de création rafraîchissant et libérateur autour de la thématique des fleurs !
 
-![](/images/cr%C3%A9ation%20collective%202.jpeg)
+![Atelier de création collective autour des fleurs — participants peignant ensemble une nappe](/images/cr%C3%A9ation%20collective%202.jpeg)
 
 #### Le dispositif
 

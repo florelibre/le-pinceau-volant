@@ -1,0 +1,73 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Le Pinceau Volant",
+  "description": "Atelier de peinture libre, aquarelle créative et création collective à Grenoble",
+  "url": "https://lepinceauvolant.fr/",
+  "image": "https://lepinceauvolant.fr/images/bandeau.jpeg",
+  "email": "contact@lepinceauvolant.fr",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "2 rue Casimir Périer",
+    "addressLocality": "Grenoble",
+    "postalCode": "38000",
+    "addressCountry": "FR"
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Flore"
+  }
+}
+</script>
+
+{{ if eq .RelPermalink "/faq/" }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Est-ce que je pourrai remporter mes œuvres chez moi ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non, pour les séances de peinture libre. Oui, pour l'aquarelle créative. Pour les brunch créatifs, vous pourrez découper un morceau de la nappe peinte. En peinture libre, il est important que les œuvres ne soient pas vues à l'extérieur pour libérer sa créativité et se consacrer à l'expérience vécue."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "En aquarelle créative, est-ce que je vais apprendre à dessiner et peindre de manière réaliste ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non, il n'y a pas d'apprentissage du dessin académique. Seulement des notions basiques autour de la lumière, des ombres et de la perspective. Nous peindrons des thèmes figuratifs (arbres, fonds marins, fleurs, paysages) en nous attachant surtout à la façon d'utiliser les pigments, l'eau et le pinceau."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Les parents peuvent-ils assister aux séances de leurs enfants ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non. Pour exprimer sa créativité librement, il est préférable de ne pas avoir de spectateur. Les parents de jeunes enfants qui souhaitent rester sur place sont invités à s'installer dans l'espace d'accueil."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Est-ce que je dois respecter les horaires ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, en aquarelle créative et pour le brunch créatif, car ce sont des séances guidées. Non, en peinture libre : on entre et sort discrètement selon son rythme."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment se passent les séances de peinture libre pour les très jeunes enfants ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Une attention particulière est apportée aux très jeunes enfants en début d'année. L'accompagnement permet d'apprendre à enfiler un tablier, utiliser le pinceau, choisir une couleur. L'activité étant très ritualisée, la confiance vient vite. La mixité des âges permet à chacun de trouver sa place."
+      }
+    }
+  ]
+}
+</script>
+{{ end }}

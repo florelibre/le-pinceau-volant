@@ -4,6 +4,8 @@ title = "Le Pinceau Volant"
 defaultContentLanguage = "fr"
 timeZone = "Europe/Paris"
 
+[taxonomies]
+
 [params]
   description = "Peintures à l'huile et aquarelles sur commande"
   author = "Flore"

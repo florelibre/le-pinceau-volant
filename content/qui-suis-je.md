@@ -3,7 +3,7 @@ title: Qui suis-je ?
 description: Flore, peintre autodidacte — ma démarche, ma pratique, mon parcours.
 ---
 
-![](/images/Photo%20Flore.jpeg)
+![Flore, peintre et fondatrice de l'atelier Le Pinceau Volant à Grenoble](/images/Photo%20Flore.jpeg)
 
 Je m’appelle Flore, je suis née en 1984 et j’ai grandi près de Grenoble, dans la nature. Les pratiques artistiques tiennent une place importante dans ma famille, de même que les échanges culturels et l’univers du soin.
 
