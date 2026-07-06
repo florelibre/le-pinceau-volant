@@ -5,7 +5,7 @@ description: Tarifs et horaires des cours et ateliers proposés par Flore.
 
 ## Tarifs
 
-### _Peinture libre_
+### **Peinture libre**
 
 - Année : **384 euros** pour 32 séances d’1h30
 - Trimestre : **entre 108 et 162 euros selon le nombre de séances**
@@ -16,7 +16,7 @@ description: Tarifs et horaires des cours et ateliers proposés par Flore.
 
 Option pedibus à 16h + temps du goûter à l’atelier : **96 euros /année** (disponible uniquement pour le groupe scolaire Menon. Goûter non fourni)
 
-### _Aquarelle créative_
+### **Aquarelle créative**
 
 **560 euros / année**, soit 32 séances d’1h30
 
@@ -24,7 +24,7 @@ Option pedibus à 16h + temps du goûter à l’atelier : **96 euros /année** 
 
 Option pedibus à 16h + temps du goûter à l’atelier : **96 euros /année** (disponible uniquement pour le groupe scolaire Menon. Goûter non fourni)
 
-### _Brunch créatif_
+### **Brunch créatif**
 
 **50 euros** pour une séance de 2h, comprenant le matériel et le brunch
 
