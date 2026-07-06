@@ -1,5 +1,5 @@
 ---
-title: Emploi du temps année scolaire 2026-2027
+title: Emploi du temps de l'année scolaire 2026 - 2027
 date: 2026-07-06T14:05
 description: ''
 ---
@@ -17,16 +17,6 @@ description: ''
 _Possibilité de pedibus en supplément depuis l’école Menon_
 
 - 18h30 – 20h00
-
-
-
-
-
-
-
-
-
-
 
 ## **_Peinture libre_**
 
@@ -47,38 +37,11 @@ _Possibilité de pedibus en supplément depuis l’école Menon_
 
 _Possibilité de pedibus en supplément depuis l’école Menon_
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## **_Brunch créatif_**
 
 ### 1er samedi du mois, de 10h à 12h
 
 - À la demande pour des groupes de 6 à 10 personnes
-
-
-
-
-
-
-
-
-
 
 #### 
 
