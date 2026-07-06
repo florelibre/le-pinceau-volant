@@ -3,33 +3,37 @@ title: Tarifs et horaires
 description: Tarifs et horaires des cours et ateliers proposés par Flore.
 ---
 
-## Tarifs et horaires
+# Tarifs et horaires
 
-### Tarifs
+## Tarifs
 
-#### Peinture libre
+#### _Peinture libre_
 
-384 euros / année, soit 32 séances d’1h30
+- Année : **384 euros** pour 32 séances d’1h30
+- Trimestre : **entre 108 et 162 euros selon le nombre de séances**
 
-Matériel fourni
+![](/images/tarifs%20peinture%20libre%20trimestre.png)
 
-Option pedibus à 16h + temps du goûter à l’atelier : 96 euros /année (disponible uniquement pour le groupe scolaire Menon. Goûter non fourni)
+**Matériel fourni**
 
-#### Aquarelle créative
+Option pedibus à 16h + temps du goûter à l’atelier : **96 euros /année** (disponible uniquement pour le groupe scolaire Menon. Goûter non fourni)
 
-560 euros / année, soit 32 séances d’1h30
+#### _Aquarelle créative_
 
-Matériel fourni
+**560 euros / année**, soit 32 séances d’1h30
 
-Option pedibus à 16h + temps du goûter à l’atelier : 96 euros /année (disponible uniquement pour le groupe scolaire Menon. Goûter non fourni)
+**Matériel fourni**
 
-#### Brunch créatif
+Option pedibus à 16h + temps du goûter à l’atelier : **96 euros /année** (disponible uniquement pour le groupe scolaire Menon. Goûter non fourni)
 
-50 euros pour une séance de 2h, comprenant le matériel et le brunch
+#### _Brunch créatif_
+
+**50 euros** pour une séance de 2h, comprenant le matériel et le brunch
+
 
 **Fratrie : réduction 5 % à partir de la deuxième personne**
 
-### Inscriptions
+## Inscriptions
 
 Pour la peinture libre, les inscriptions se font sur rdv, par téléphone ou en présentiel. Demande d’inscription : [contact@lepinceauvolant.fr](mailto:contact@lepinceauvolant.fr)
 
@@ -43,8 +47,42 @@ Brunch créatif : inscription pour l'atelier mensuel ou demande de devis pour d
 
 Formulaire à remplir: _bientôt en ligne_
 
-### Horaires
+## 
 
-_Bientôt en ligne_
+## **EMPLOI DU TEMPS ANNÉE SCOLAIRE 2026 - 2027**
 
-_À compléter via le CMS._
+#### **_Aquarelle créative_**
+
+##### Mardis
+
+- 16h30 – 18h00
+
+_Possibilité de pedibus en supplément depuis l’école Menon_
+
+- 18h30 – 20h00
+
+#### **_Peinture libre_**
+
+##### Lundis
+
+- 18h – 19h30
+
+##### Mercredis
+
+- 10h – 11h30
+- 15h – 16h30
+
+##### Jeudis
+
+- 16h30 – 18h00
+
+_Possibilité de pedibus en supplément depuis l’école Menon_
+
+#### **_Brunch créatif_**
+
+- 1er samedi du mois, de 10h à 12h
+- À la demande pour des groupes de 6 à 10 personnes
+
+##### Vous êtes une association, une entreprise, une famille, des collègues, des amis, des soignants, des étudiants, des accompagnants...?
+
+##### Toutes les activités du _Pinceau Volant_ peuvent être organisées pour des groupes jusqu’à 10 personnes, sur devis : contact@lepinceauvolant.fr
