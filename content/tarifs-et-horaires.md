@@ -3,8 +3,6 @@ title: Tarifs et horaires
 description: Tarifs et horaires des cours et ateliers proposés par Flore.
 ---
 
-# Tarifs et horaires
-
 ## Tarifs
 
 #### _Peinture libre_
@@ -29,7 +27,6 @@ Option pedibus à 16h + temps du goûter à l’atelier : **96 euros /année** 
 #### _Brunch créatif_
 
 **50 euros** pour une séance de 2h, comprenant le matériel et le brunch
-
 
 **Fratrie : réduction 5 % à partir de la deuxième personne**
 
