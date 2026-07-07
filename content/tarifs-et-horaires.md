@@ -14,7 +14,7 @@ description: Tarifs et horaires des cours et ateliers proposés par Flore.
 
 **Matériel fourni**
 
-Option pedibus à 16h + temps du goûter à l’atelier : **96 euros /année** (disponible uniquement pour le groupe scolaire Menon. Goûter non fourni)
+Option pedibus à 16h + temps du goûter à l’atelier : **32 euros /année** (disponible uniquement pour le groupe scolaire Menon. Goûter non fourni)
 
 ### **Aquarelle créative**
 
@@ -22,13 +22,13 @@ Option pedibus à 16h + temps du goûter à l’atelier : **96 euros /année** 
 
 **Matériel fourni**
 
-Option pedibus à 16h + temps du goûter à l’atelier : **96 euros /année** (disponible uniquement pour le groupe scolaire Menon. Goûter non fourni)
+Option pedibus à 16h + temps du goûter à l’atelier : **32 euros /année** (disponible uniquement pour le groupe scolaire Menon. Goûter non fourni)
 
 ### **Brunch créatif**
 
 **50 euros** pour une séance de 2h, comprenant le matériel et le brunch
 
-**Fratrie : réduction 5 % à partir de la deuxième personne**
+**Fratrie : réduction 10 % à partir de la deuxième personne**
 
 ## Inscriptions
 
