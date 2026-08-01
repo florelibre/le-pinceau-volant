@@ -8,9 +8,11 @@ description: Tarifs et horaires des cours et ateliers proposés par Flore.
 ### **Peinture libre**
 
 - Année : **384 euros** pour 32 séances d’1h30
+             **336 euros** pour les enfants jusqu'à 6 ans
+
 - Trimestre : **entre 108 et 162 euros selon le nombre de séances**
 
-![](/images/tarifs%20peinture%20libre%20trimestre.png)
+![](/images/Tarifs%20peinture%20libre%20trimestre.png)
 
 **Matériel fourni**
 
