@@ -78,7 +78,7 @@ _Possibilité de pedibus en supplément depuis l’école Menon_
 
 ### **_Brunch créatif_**
 
-- 1er samedi du mois, de 10h à 12h
+- 1er samedi du mois, de 10h30 à 12h30
 - À la demande pour des groupes de 6 à 10 personnes
 
 ##### Vous êtes une association, une entreprise, une famille, des collègues, des amis, des soignants, des étudiants, des accompagnants...?
