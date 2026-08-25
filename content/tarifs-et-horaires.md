@@ -29,7 +29,8 @@ Option pedibus à 16h + temps du goûter à l’atelier : **32 euros /année** 
 
 **50 euros** pour une séance de 2h, comprenant le matériel et le brunch
 
-**Fratrie : réduction 10 % à partir de la deuxième personne**
+
+**Fratrie : réduction 10 % à partir de la deuxième personne pour les inscriptions à l'année.**
 
 ## Inscriptions
 
