@@ -29,20 +29,19 @@ Option pedibus à 16h + temps du goûter à l’atelier : **32 euros /année** 
 
 **50 euros** pour une séance de 2h, comprenant le matériel et le brunch
 
-
 **Fratrie : réduction 10 % à partir de la deuxième personne pour les inscriptions à l'année.**
 
 ## Inscriptions
 
-Pour la peinture libre, les inscriptions se font sur rdv, par téléphone ou en présentiel. Demande d’inscription : [contact@lepinceauvolant.fr](mailto:contact@lepinceauvolant.fr)
+Pour la peinture libre, les inscriptions se font sur rdv, par téléphone ou en présentiel. Demande d’inscription : [contact@lepinceauvolant.fr](mailto:contact@lepinceauvolant.fr) ou **07 66 97 00 94**
 
 Formulaire à remplir : _bientôt en ligne_
 
 Je m’assure que vous ou votre enfant avez bien cerné les principes de ces pratiques.
 
-Aquarelle créative : inscription par email : [contact@lepinceauvolant.fr](mailto:contact@lepinceauvolant.fr)
+Aquarelle créative : inscription par email : [contact@lepinceauvolant.fr](mailto:contact@lepinceauvolant.fr) ou **07 66 97 00 94**
 
-Brunch créatif : inscription pour l'atelier mensuel ou demande de devis pour des groupes spécifiques, par email : [contact@lepinceauvolant.fr](mailto:contact@lepinceauvolant.fr)
+Brunch créatif : inscription pour l'atelier mensuel ou demande de devis pour des groupes spécifiques, par email : [contact@lepinceauvolant.fr](mailto:contact@lepinceauvolant.fr) ou **07 66 97 00 94**
 
 Formulaire à remplir: _bientôt en ligne_
 
@@ -84,4 +83,4 @@ _Possibilité de pedibus en supplément depuis l’école Menon_
 
 ##### Vous êtes une association, une entreprise, une famille, des collègues, des amis, des soignants, des étudiants, des accompagnants...?
 
-##### Toutes les activités du _Pinceau Volant_ peuvent être organisées pour des groupes jusqu’à 10 personnes, sur devis : contact@lepinceauvolant.fr
+##### Toutes les activités du _Pinceau Volant_ peuvent être organisées pour des groupes jusqu’à 10 personnes, sur devis : contact@lepinceauvolant.fr ou 07 66 97 00 94
