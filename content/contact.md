@@ -13,6 +13,8 @@ Atelier du Pinceau Volant
 
 38000 Grenoble
 
+**Téléphone :** 07 66 97 00 94
+
 **Email :** [contact@lepinceauvolant.fr](mailto:contact@lepinceauvolant.fr)
 
 _Les demandes d'inscription se font par email. Pour les séances de peinture libre, je vous proposerai au préalable un rdv téléphonique ou en présentiel._
