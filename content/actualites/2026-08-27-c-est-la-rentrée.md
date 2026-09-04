@@ -1,6 +1,6 @@
 ---
 title: C'est la rentrée !
-date: 2026-08-27T09:01
+date: 2026-08-27T09:01:00
 description: Cours d'essai et inscriptions ouvertes
 ---
 

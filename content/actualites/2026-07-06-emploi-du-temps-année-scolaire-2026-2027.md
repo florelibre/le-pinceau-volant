@@ -1,6 +1,6 @@
 ---
 title: Emploi du temps de l'année scolaire 2026 - 2027
-date: 2026-07-06T14:05
+date: 2026-07-06T14:05:00
 description: ''
 ---
 
