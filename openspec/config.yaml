@@ -1,0 +1,41 @@
+schema: spec-driven
+
+context: |
+  Site vitrine pour l'artiste peintre Flore.
+
+  Stack: Hugo (pas de thème, layouts custom dans layouts/).
+  CSS brut dans static/css/main.css (pas de pipeline d'assets).
+  Déploiement: GitHub Actions -> GitHub Pages, automatique
+  sur push vers main.
+
+  Contenu: Markdown + YAML frontmatter dans content/
+  (accueil, a-propos, services/tarifs, contact, actualités).
+
+  CMS: Sveltia, admin sur /admin/, config dans
+  static/admin/config.yml. Backend GitHub, authentification
+  par jeton (PAT), pas d'OAuth/proxy Netlify.
+
+  Les changements peuvent porter sur le code/layout Hugo
+  ou sur le contenu/la config du CMS.
+
+# Per-artifact rules (optional)
+# Add custom rules for specific artifacts.
+# Example:
+#   rules:
+#     proposal:
+#       - Keep proposals under 500 words
+#       - Always include a "Non-goals" section
+#     tasks:
+#       - Break tasks into chunks of max 2 hours
+
+# Per-operation guidance (optional)
+# Add advisory guidance for how apply and archive work should be conducted.
+# This is separate from artifact rules above.
+# Example:
+#   operations:
+#     apply:
+#       guidance:
+#         - Keep test summaries concise
+#     archive:
+#       guidance:
+#         - Summarize the archive outcome before finishing
