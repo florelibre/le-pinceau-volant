@@ -16,4 +16,4 @@ Accompte de 20 euros à régler au plus tard le 29 septembre.
 
 Horaire : 10h30 - 12h30
 
-Inscriptions au plus tard le 29 septembre. contact@lepinceauvolant.fr ou 07 66 97 00 94![](/images/Affiche%20Peinture%20Libre.pdf)
+Inscriptions au plus tard le 29 septembre. contact@lepinceauvolant.fr ou 07 66 97 00 94![](/images/Affiche%20Peinture%20Libre.pdf "Brunch peinture 3.10.26")
