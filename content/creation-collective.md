@@ -1,13 +1,13 @@
 ---
-title: Création collective
-description: Explorez les arts plastiques avec Flore — dessin, collage, mixed media et expérimentations.
+title: Brunchs aquarelle ou brunch et fresque collective
+description: Brunch aquarelle ou fresque collective
 ---
 
-## Création collective
+### Brunch et fresque collective
 
-Venez partager un moment de création rafraîchissant et libérateur autour de la thématique des fleurs !
+Venez partager un moment de création rafraichissant et libérateur autour de la thématique des fleurs et de la nature.
 
-![Atelier de création collective autour des fleurs — participants peignant ensemble une nappe](/images/cr%C3%A9ation%20collective%202.jpeg)
+![Atelier de création collective autour des fleurs — participants peignant ensemble une nappe](/images/Brunch%20fresque%20collective.jpg)
 
 #### Le dispositif
 
