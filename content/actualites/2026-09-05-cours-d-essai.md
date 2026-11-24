@@ -4,7 +4,7 @@ date: 2026-09-05T08:27:00
 description: semaine du 14 septembre
 ---
 
-**Tous les cours d'essai sont proposés au tarif de 10 euros, tout a long de l'année.**
+**Tous les cours d'essai sont proposés au tarif de 10 euros, tout au long de l'année.**
 
 C'est l'occasion de découvrir la peinture libre, ce jeu où chacun peut s'exprimer selon son inspiration, son rythme et ses besoins. Toutes les séances sont intergénérationnelles, de 3 à 103 ans. Les peintures réalisées restent à l'atelier. Vous peignez pour vous, sans attente de résultat, sans influence des regards extérieurs.
 
