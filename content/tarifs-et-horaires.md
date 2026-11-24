@@ -27,7 +27,7 @@ Option pedibus à 16h + temps du goûter à l’atelier : **32 euros /année** 
 
 ### **Brunch créatif**
 
-**50 euros** pour une séance de 2h, comprenant le matériel et le brunch
+**50 euros** pour une séance de 2h30, comprenant le matériel et le brunch
 
 **Fratrie : réduction 10 % à partir de la deuxième personne pour les inscriptions à l'année.**
 
@@ -78,7 +78,7 @@ _Possibilité de pedibus en supplément depuis l’école Menon_
 
 ### **_Brunch créatif_**
 
-- 1er samedi du mois, de 10h30 à 12h30
+- 1er samedi du mois, de 10h30 à 13h00
 - À la demande pour des groupes de 6 à 10 personnes
 
 ##### Vous êtes une association, une entreprise, une famille, des collègues, des amis, des soignants, des étudiants, des accompagnants...?
