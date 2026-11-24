@@ -1,5 +1,5 @@
 ---
-title: Brunch aquarelle
+title: Brunch aquarelle Samedi 9 janvier 10h30 - 13h00
 date: 2026-11-24T08:35:00
 description: samedi 9 janvier 2027 10h30 - 13h00
 ---
